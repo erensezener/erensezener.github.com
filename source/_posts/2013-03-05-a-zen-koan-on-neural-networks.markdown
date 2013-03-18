@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-If you are familiar with Zen and it's Koans, and Marvin Minsky, you will find this hilarious.
+Marvin Minsky:
 
 {% blockquote Catb.com http://www.catb.org/jargon/html/koans.html#id3141241 Some AI Koans %}
 In the days when Sussman was a novice, Minsky once came to him as he sat hacking at the PDP-6.  
