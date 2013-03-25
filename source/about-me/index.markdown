@@ -32,7 +32,7 @@ You can find me on:
 || [Hacker News](http://news.ycombinator.com/user?id=erensezener)
 || [GitHub](https://github.com/erensezener)
 
-My resume is [here](/resume).
+My resume is [here](http://cargo.erensezener.com/resume.pdf).
 
 
 
