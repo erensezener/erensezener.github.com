@@ -7,8 +7,10 @@ sharing: true
 footer: true
 ---
 I am a Computer Science student at [Ozyegin University](www.ozyegin.edu.tr) in Istanbul, Turkey.  
-I am mostly interested in Artificial Intelligence and Machine Learning.  
-Currently, I am working on creating a more intelligent way of using cache replacement algorithms.
+I am interested in Machine Learning, Computational Neuroscience and Robotics.  
+Currently, I am working with [Assist. Prof. Erhan Oztop](http://ozurobotics.ozyegin.edu.tr/eoztop/) at [OzU](www.ozyegin.edu.tr).
+
+During Summer 2013, I will be working at [KU IUI Lab](http://iui.ku.edu.tr/).
 
 Previously, I co-founded [Yapanzi.com](www.yapanzi.com) which is a marketplace for services people can offer.  
 Yapanzi reached more than 3000 registered users and 20 transactions per day.  
