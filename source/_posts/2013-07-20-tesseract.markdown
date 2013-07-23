@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Only 3 dimensions are directly perceivable by human perception.  
+Only 3 dimensions are directly perceivable by humans.  
 Hence, it feels unnatural to think about n-dimensional objects where n > 3.  
 
 Hypercube or n-cube is a geometrical concept that corresponds to analogs of a square and a cube [1].
